@@ -4,6 +4,6 @@ by Johns Hopkins University
 
 <u>Module 2:</u><br>
 Assignment- https://bit.ly/3g0E2rU <br>
-Solution- https://bit.ly/31dhfFn
+Solution- https://bit.ly/31dhfFn <br>
 Preview- https://juhi-agg.github.io/Web-D/mod_2/
 
